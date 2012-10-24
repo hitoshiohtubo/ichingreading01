@@ -1,0 +1,81 @@
+.koutable table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.koutable table tbody {
+  text-align: center;
+}
+.koutable table tbody td {
+  border: 1px solid black;
+  background-color: white;
+}
+.koutable .koulabelbase {
+  width: 4em;
+}
+.koutable .koulabel {
+  color: black;
+}
+.koutable .kousangi {
+  width: 280px;
+  height: 70px;
+}
+.koutable .kousangi .kousangiimage {
+  vertical-align:middle;
+}
+.koutable .kousymbol {
+  width: 70px;
+  height: 70px;
+}
+.koutable .kousymbol .kousymbolimage {
+  vertical-align:middle;
+}
+.koutable .kousymbolnamebase {
+  width: 4em;
+  color: black;
+}
+.koutable .kousymbolnamebase div[englishname^="Old"] {
+  color: red;
+}
+.hexagramtable table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.hexagramtable table thead {
+  text-align: left;
+}
+.hexagramtable table thead th {
+  padding-left: 1em;
+}
+.hexagramtable table tbody td {
+  border: 1px solid black;
+  background-color: white;
+}
+.hexagramtable .hexagramimage {
+  width: 80px;
+  vertical-align:middle;
+}
+.hexagramtable .hexagramnamebase {
+  width: 28em;
+  height: 2em;
+}
+.hexagramtable .hexagramname {
+  margin-left: 0.5em;
+  color: black;
+}
+.hexagramtable .hexagramaliasbase {
+  width: 28em;
+  height: 2em;
+}
+.hexagramtable .hexagramalias {
+  margin-left: 0.5em;
+  color: black;
+}
+.hexagramtable .hexagramaliasenglishbase {
+  width: 28em;
+  height: 2em;
+}
+.hexagramtable .hexagramaliasenglish {
+  margin-left: 0.5em;
+  color: black;
+}
+
